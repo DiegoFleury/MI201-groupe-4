@@ -14,15 +14,15 @@ Ce projet vise à analyser les sentiments exprimés dans des tweets en utilisant
 ### Représentations Utilisées
 1. **Aspect Lexical : TF-IDF**
    - Représentation vectorielle basée sur la fréquence des mots (TF-IDF).
-   - Chaque tweet est représenté par un vecteur \( N \Times 1 \), où \( N \) est le nombre de mots uniques.
+   - Chaque tweet est représenté par un vecteur \( N x 1 \), où \( N \) est le nombre de mots uniques.
 
 2. **Aspect Syntaxique : Word2Vec**
    - Utilisation de Word2Vec pour capturer les relations contextuelles entre les mots.
-   - Les tweets sont représentés par des vecteurs \( N \Times K \), où \( K \) est la dimension des embeddings, et \( N \) le nombre de mots.
+   - Les tweets sont représentés par des vecteurs \( N x K \), où \( K \) est la dimension des embeddings, et \( N \) le nombre de mots.
 
 3. **Aspect Sémantique : BERT/GPT**
    - Extraction des embeddings à l'aide de modèles pré-entraînés comme BERT ou GPT.
-   - Chaque tweet est représenté par un vecteur \( N \Times K \), avec \( K \) correspondant à la dimension des embeddings.
+   - Chaque tweet est représenté par un vecteur \( N x K \), avec \( K \) correspondant à la dimension des embeddings.
 
 ---
 
