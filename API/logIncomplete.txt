@@ -1,0 +1,329 @@
+📌 Tweet:  Enjoy! Family trumps everything 
+🟢 Predict: positive 
+🔵 Real: positive
+
+📌 Tweet:  --of them kinda turns me off of it all.  And then I buy more of them and dig a deeper hole, etc. ;; 
+🟢 Predict: negative 
+🔵 Real: negative
+
+📌 Tweet: Clive it`s my birthday pat me  http://apps.facebook.com/dogbook/profile/view/6386106 
+🟢 Predict: neutral 
+🔵 Real: neutral
+
+📌 Tweet:  congrats hey 
+🟢 Predict: neutral 
+🔵 Real: positive
+
+Error detected ! : Expecting value: line 1 column 1 (char 0). Waiting 10 seconds before retry ...
+📌 Tweet:  Do you have any idea when the (not so) patient fans will see some teaser pics of you all in costume? 
+🟢 Predict: neutral 
+🔵 Real: neutral
+
+💾 Checkpoint saved !
+Error detected ! : Expecting value: line 1 column 1 (char 0). Waiting 10 seconds before retry ...
+📌 Tweet:  Ooooh, I`m jealous  I might try and get some for the saturday but I have an exam on the monday that Im gonna fail 
+🟢 Predict: neutral 
+🔵 Real: negative
+
+Error detected ! : Expecting value: line 1 column 1 (char 0). Waiting 10 seconds before retry ...
+📌 Tweet: wee. done with advance audit paper 
+🟢 Predict: neutral 
+🔵 Real: neutral
+
+Error detected ! : Expecting value: line 1 column 1 (char 0). Waiting 10 seconds before retry ...
+Error detected ! : Expecting value: line 1 column 1 (char 0). Waiting 10 seconds before retry ...
+📌 Tweet:  well, the customer is always right (at least that`s what they tell me) 
+🟢 Predict: neutral 
+🔵 Real: neutral
+
+Error detected ! : Expecting value: line 1 column 1 (char 0). Waiting 10 seconds before retry ...
+📌 Tweet:  oooh sounds yummy.  If you get a chance to take some pics  please add them to the website as we don`t have many pies on there 
+🟢 Predict: positive 
+🔵 Real: positive
+
+📌 Tweet: Could be useful  13 Tutorials & Resources for a Perfect Twitter Background http://tinyurl.com/dl2upx #design 
+🟢 Predict: neutral 
+🔵 Real: positive
+
+💾 Checkpoint saved !
+📌 Tweet:  whats up rick?? 
+🟢 Predict: neutral 
+🔵 Real: neutral
+
+📌 Tweet: At work... What a miserable day 
+🟢 Predict: negative 
+🔵 Real: negative
+
+Error detected ! : Expecting value: line 1 column 1 (char 0). Waiting 10 seconds before retry ...
+📌 Tweet: and young ones....'look what I found'....'breakfast'.... 
+🟢 Predict: neutral 
+🔵 Real: neutral
+
+📌 Tweet: Massive morning.. I`m stuffed now 
+🟢 Predict: neutral 
+🔵 Real: neutral
+
+📌 Tweet: I wish I had company 
+🟢 Predict: neutral 
+🔵 Real: negative
+
+💾 Checkpoint saved !
+📌 Tweet:  i`m on my mobile so it won`t let me  but i can`t stop thinking about you ;)x 
+🟢 Predict: positive 
+🔵 Real: negative
+
+📌 Tweet: Today is check in day for week 12 of the Artist`s Way! Hurray time to celebrate another good completed journey. 
+🟢 Predict: positive 
+🔵 Real: positive
+
+📌 Tweet:  where are you going tonight?! 
+🟢 Predict: neutral 
+🔵 Real: neutral
+
+Error detected ! : Expecting value: line 1 column 1 (char 0). Waiting 10 seconds before retry ...
+📌 Tweet: Intel gfx driver situation much better with recent upgrades. kernel 2.6.30rc4 and driver from git: Suspend working again, fewer mem leaks 
+🟢 Predict: positive 
+🔵 Real: negative
+
+📌 Tweet: Once again, I`m dealing with cancer in my direct family. Bugger  Cancel sucks! 
+🟢 Predict: negative 
+🔵 Real: negative
+
+💾 Checkpoint saved !
+📌 Tweet: Went to see 'UP'. It was a really good movie that pulls at the heart strings  i highly recommend it 
+🟢 Predict: positive 
+🔵 Real: positive
+
+📌 Tweet:  xD  hello that`s an important date! 
+🟢 Predict: neutral 
+🔵 Real: positive
+
+📌 Tweet: Ok just woke up and need to get ready before a day of getting twitterena 2.1 submitted! 
+🟢 Predict: neutral 
+🔵 Real: neutral
+
+📌 Tweet:  LOL...oh, man, can I un-twit something? haha! I mean my lean mean fighting machine. I sooo can`t believe you called me out! 
+🟢 Predict: neutral 
+🔵 Real: neutral
+
+📌 Tweet:  Oh I`ve got that one & the stp x step one on VHS. Tried connecting our video to harddrive to copy to DVD but didnt work 
+🟢 Predict: neutral 
+🔵 Real: neutral
+
+💾 Checkpoint saved !
+📌 Tweet: Why are some guys so stupid? They have no idea what to do with a good girl who actually cares about them..so sad 
+🟢 Predict: negative 
+🔵 Real: negative
+
+📌 Tweet: . Well gotdamn girl!!! I dont know what else!!!!  I`m sleepy again! Grrr 
+🟢 Predict: neutral 
+🔵 Real: neutral
+
+📌 Tweet: its my birthday.....happy birthday to me!!!! 
+🟢 Predict: positive 
+🔵 Real: positive
+
+📌 Tweet: Going to get my blood taken 
+🟢 Predict: neutral 
+🔵 Real: neutral
+
+📌 Tweet:  Just DMed you your login details for the Twitter Salvation System. Enjoy! do let me know what u think. 
+🟢 Predict: neutral 
+🔵 Real: positive
+
+💾 Checkpoint saved !
+📌 Tweet: FYI no internets until THURSTAG!!!! after saturday  i have a feeling i will become 800x more productive during those days. 
+🟢 Predict: neutral 
+🔵 Real: positive
+
+Error detected ! : Expecting value: line 1 column 1 (char 0). Waiting 10 seconds before retry ...
+Error detected ! : Expecting value: line 1 column 1 (char 0). Waiting 10 seconds before retry ...
+📌 Tweet: i totally need to go to the doctor for my arm...this **** is STILL hurtin like hell      i shall return 
+🟢 Predict: negative 
+🔵 Real: negative
+
+📌 Tweet: I burnt my arm.  (just thought you should know) 
+🟢 Predict: neutral 
+🔵 Real: negative
+
+📌 Tweet:  my youtube channel? Demilynnmusic haha cause I love 2 sing & stuff so yea 
+🟢 Predict: positive 
+🔵 Real: positive
+
+📌 Tweet:  I think that`s cutting off the URL so the pic doesn`t turn up.   #mishaneedschapstick 
+🟢 Predict: neutral 
+🔵 Real: neutral
+
+💾 Checkpoint saved !
+📌 Tweet: Good Morning Tweeters... Happy Monday!  Grab a big cup of coffee it`s a new week 
+🟢 Predict: positive 
+🔵 Real: positive
+
+📌 Tweet:  No FAIR! 
+🟢 Predict: negative 
+🔵 Real: negative
+
+📌 Tweet: _bach Thank you for YOUR positive energy + contributions here! 
+🟢 Predict: positive 
+🔵 Real: positive
+
+📌 Tweet: **** being broke on the day Guitar Hero Metallica comes out!  Boooooooo 
+🟢 Predict: negative 
+🔵 Real: negative
+
+Error detected ! : Expecting value: line 1 column 1 (char 0). Waiting 10 seconds before retry ...
+📌 Tweet: just finished an exam, every1 else has finished cos I chose i different course to my friends I have one more exam on Thurs next week 
+🟢 Predict: neutral 
+🔵 Real: neutral
+
+💾 Checkpoint saved !
+Error detected ! : Expecting value: line 1 column 1 (char 0). Waiting 10 seconds before retry ...
+Error detected ! : Expecting value: line 1 column 1 (char 0). Waiting 10 seconds before retry ...
+📌 Tweet: About to go to my last theater lunch  im gonna cry. 
+🟢 Predict: neutral 
+🔵 Real: negative
+
+Error detected ! : Expecting value: line 1 column 1 (char 0). Waiting 10 seconds before retry ...
+Error detected ! : Expecting value: line 1 column 1 (char 0). Waiting 10 seconds before retry ...
+Error detected ! : Expecting value: line 1 column 1 (char 0). Waiting 10 seconds before retry ...
+📌 Tweet: My cat died of kidney failure during my math test  This day needs to get better. 
+🟢 Predict: negative 
+🔵 Real: neutral
+
+📌 Tweet: Is sad clint hurdle got released. I liked him 
+🟢 Predict: neutral 
+🔵 Real: neutral
+
+📌 Tweet: i would slip and fall... on the dirty school bathroom floor. fml. 
+🟢 Predict: negative 
+🔵 Real: negative
+
+📌 Tweet: is helping  making a twitter account 
+🟢 Predict: neutral 
+🔵 Real: positive
+
+💾 Checkpoint saved !
+📌 Tweet: Somewhere in the center... 
+🟢 Predict: neutral 
+🔵 Real: neutral
+
+Error detected ! : Expecting value: line 1 column 1 (char 0). Waiting 10 seconds before retry ...
+Error detected ! : Expecting value: line 1 column 1 (char 0). Waiting 10 seconds before retry ...
+📌 Tweet:   as a kid, i remember searching with the local video store owner in a godown , got a video tape with fungus badluck 
+🟢 Predict: neutral 
+🔵 Real: negative
+
+📌 Tweet: _Anais I feel reeeally bad now.... sorry 
+🟢 Predict: negative 
+🔵 Real: negative
+
+📌 Tweet: had a great day 
+🟢 Predict: positive 
+🔵 Real: positive
+
+Error detected ! : Expecting value: line 1 column 1 (char 0). Waiting 10 seconds before retry ...
+📌 Tweet: mmm... hot chocolate, ugboots and topgear... life is good. 
+🟢 Predict: positive 
+🔵 Real: positive
+
+💾 Checkpoint saved !
+📌 Tweet: it always rains right after i get my car washed 
+🟢 Predict: negative 
+🔵 Real: positive
+
+Error detected ! : Expecting value: line 1 column 1 (char 0). Waiting 10 seconds before retry ...
+📌 Tweet:  haha! thanks, Tiff   it went well, but they WORE ME OUT!!! lol. im too old for this ;) 
+🟢 Predict: neutral 
+🔵 Real: neutral
+
+📌 Tweet: 45Th st pub anyone tonight? Dont want to be a lonely drunk tonight 
+🟢 Predict: neutral 
+🔵 Real: positive
+
+📌 Tweet:  gets to go home. I`m here until 10:30 
+🟢 Predict: neutral 
+🔵 Real: neutral
+
+Error detected ! : Expecting value: line 1 column 1 (char 0). Waiting 10 seconds before retry ...
+Error detected ! : Expecting value: line 1 column 1 (char 0). Waiting 10 seconds before retry ...
+Error detected ! : Expecting value: line 1 column 1 (char 0). Waiting 10 seconds before retry ...
+Error detected ! : Expecting value: line 1 column 1 (char 0). Waiting 10 seconds before retry ...
+Error detected ! : Expecting value: line 1 column 1 (char 0). Waiting 10 seconds before retry ...
+📌 Tweet: Going to the Gold Coast for mothers day lunch 
+🟢 Predict: positive 
+🔵 Real: neutral
+
+💾 Checkpoint saved !
+Error detected ! : Expecting value: line 1 column 1 (char 0). Waiting 10 seconds before retry ...
+📌 Tweet: cry baby. janes joplin what is this? munsay music. but i dont know wich **** day i  am today 
+🟢 Predict: neutral 
+🔵 Real: negative
+
+📌 Tweet: Had to cancel subscriptions today to NZZ and Economist at office  #costsavings Luckily they also have online versions 
+🟢 Predict: neutral 
+🔵 Real: neutral
+
+📌 Tweet: Western Digital Caviar Black 1TB SATA 300 NCQ 32MB on the way... 
+🟢 Predict: neutral 
+🔵 Real: neutral
+
+📌 Tweet: so had a freakin lond thursday  ready to hit the hay and surprise surprise I can`t freakin sleep :/ Boo! 
+🟢 Predict: negative 
+🔵 Real: negative
+
+📌 Tweet: R.I.P little bird that flew into my window snapping his neck 
+🟢 Predict: negative 
+🔵 Real: negative
+
+💾 Checkpoint saved !
+📌 Tweet: _trick It`s all good  The next 6 months are going to be awesome. 
+🟢 Predict: positive 
+🔵 Real: positive
+
+📌 Tweet: Why don`t we close the library due to the great weather?  And the ac isn`t working  #fb 
+🟢 Predict: neutral 
+🔵 Real: positive
+
+📌 Tweet: About to Enjoy the Silence 
+🟢 Predict: neutral 
+🔵 Real: positive
+
+📌 Tweet: I just got home.  i bought twiggies and a toothbrush that promises to make my teeth 60% cleaner. - http://tweet.sg 
+🟢 Predict: neutral 
+🔵 Real: positive
+
+📌 Tweet: Going to IKEA with the roomie so she can shop for her apartment. IKEA is in like my top ten stores that I love 
+🟢 Predict: positive 
+🔵 Real: positive
+
+💾 Checkpoint saved !
+Error detected ! : Expecting value: line 1 column 1 (char 0). Waiting 10 seconds before retry ...
+Error detected ! : Expecting value: line 1 column 1 (char 0). Waiting 10 seconds before retry ...
+Error detected ! : Expecting value: line 1 column 1 (char 0). Waiting 10 seconds before retry ...
+📌 Tweet: _xo  wicked , what time you leaving? how come you cant stay the night 
+🟢 Predict: neutral 
+🔵 Real: negative
+
+Error detected ! : Expecting value: line 1 column 1 (char 0). Waiting 10 seconds before retry ...
+Error detected ! : Expecting value: line 1 column 1 (char 0). Waiting 10 seconds before retry ...
+Error detected ! : Expecting value: line 1 column 1 (char 0). Waiting 10 seconds before retry ...
+Error detected ! : Expecting value: line 1 column 1 (char 0). Waiting 10 seconds before retry ...
+Error detected ! : Expecting value: line 1 column 1 (char 0). Waiting 10 seconds before retry ...
+✅ Process finished ! Checkpoint saved .
+
+....
+
+
+Accuracy: 0.7
+
+Classification Report:
+              precision    recall  f1-score   support
+
+    positive       0.88      0.48      0.62        29
+    negative       0.58      0.95      0.72        37
+     neutral       0.88      0.62      0.72        34
+
+    accuracy                           0.70       100
+   macro avg       0.78      0.68      0.69       100
+weighted avg       0.77      0.70      0.69       100
+
